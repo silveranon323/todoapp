@@ -1,0 +1,2 @@
+# todoapp
+Hello there , i would like to show you a todo app that touches on all the important parts of building any data-driven app, including the Create , Read , Update and Delete (CRUD) operations. I have build this app with one of the most popular mobile frameworks i.e React Native . React native UI Components simplifies and helps in building Cross platform data-driven apps. It runs on  b Ios as well as Android . 
